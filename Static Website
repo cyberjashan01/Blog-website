@@ -1,0 +1,89 @@
+<html>
+    <head>
+        <title>Blogs
+            
+        </title>
+        <link rel="icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcNATD9aQQGO9FcHukVea-UQ92SkNYO2H7aw&usqp=CAU /favicon.ico">
+        <style>
+            body  {
+              background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fimgk.timesnownews.com%2Fstory%2Fmain_indian_flag_iStock-1194408359.jpg%3Ftr%3Dw-560%2Ch-292%2Cfo-top&imgrefurl=https%3A%2F%2Fwww.timesnownews.com%2Findia%2Farticle%2Fwhy-is-the-indian-flag-hoisted-on-independence-day-but-unfurled-on-republic-day%2F852618&tbnid=4tcHb_8sWf1CaM&vet=12ahUKEwinytTxjIr5AhXVyqACHQNbAqIQMygvegUIARDMAg..i&docid=vtJem-dyCT0PBM&w=560&h=292&q=indian%20flag&ved=2ahUKEwinytTxjIr5AhXVyqACHQNbAqIQMygvegUIARDMAg");
+              background-color: #cccccc;
+            }
+            </style>
+    </head>
+    <body >
+        <section style="height: 55px;">
+            <div>
+                <div style="float: left;  width:7%;">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcNATD9aQQGO9FcHukVea-UQ92SkNYO2H7aw&usqp=CAU " style=" width: 80%;">
+                </div>
+            </div>
+                <div>
+                    <h2><center>Random Blogs of Delhi</center></h2>
+                </div>
+            <div>
+                <h6 style="text-align: right;">By Jashan Malhotra</h6>
+            </div>
+        </section>
+        
+        <hr color="red">
+        <section>
+            <img src="https://www.planetware.com/photos-large/IND/india-delhi-red-fort.jpg"   style="alt=Trulli; width: 60%;height: 40%; float:right; align:right; height=100;">
+        
+          <p> Fort or Lal Qila  is a historic fort in Old Delhi, Delhi in India that served as the 
+            main residence of the Mughal Emperors. Emperor Shah Jahan commissioned construction of the Red Fort on 12 May 1638, when he decided to shift 
+            his capital from Agra to Delhi. Originally red and white, its design is credited to architect Ustad Ahmad Lahori, who also 
+            constructed the Taj Mahal. The fort represents the peak in Mughal architecture under Shah Jahan, and combines Persianate palace
+             architecture with Indian traditions.The fort was plundered of its artwork and jewels during Nadir Shah's invasion of the 
+             Mughal Empire in 1739. Most of the fort's marble structures were subsequently demolished by the British following the Indian Rebellion
+              of 1857. The fort's defensive walls were largely undamaged, and the fortress was subsequently used as a garrison.For more information
+              <a href="https://en.wikipedia.org/wiki/Red_Fort" target="_blank">Click here</a></p><br><br><br>
+        </section><br><br><br><br>
+        <section>
+                <img src="https://www.holidify.com/images/bgImages/DELHI.jpg"   style="alt=Trulli; width: 60%;height: 40%; float:right; align:right; height=100;">
+        
+                <p> FThe India Gate (formerly known as the All India War Memorial) is a war memorial located astride the Rajpath, on the eastern 
+                    edge of the "ceremonial axis" of New Delhi, formerly called Kingsway. It stands as a memorial to 84,000 soldiers of the British
+                     Indian Army who died in between 1914 and 1921 in the First World War, in France, Flanders, Mesopotamia, Persia, East Africa,
+                      Gallipoli and elsewhere in the Near and the Far East, and the Third Anglo-Afghan War. 13,300 servicemen's names, including 
+                      some soldiers and officers from the United Kingdom, are inscribed on the gate.[2] Designed by Sir Edwin Lutyens, the gate
+                       evokes the architectural style of the memorial arch such as the Arch of Constantine, in Rome, and is often compared to the 
+                       Arc de Triomphe in Paris, and the Gateway of India in Mumbai.
+                    <a href="https://en.wikipedia.org/wiki/India_Gate" target="_blank">Click here</a></p><br><br><br>
+        </section><br><br><br><br>
+        <section>
+                <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/b7/1f/31/qutab-minar.jpg?w=500&h=400&s=1"   style="alt=Trulli; width: 60%; float:right;height: 40%; align:right; height=100;">
+        
+                <p> The Qutb Minar, also spelled Qutub Minar and Qutab Minar, is a minaret and "victory tower" that forms part of the Qutb complex, which lies at the site of Delhi’s oldest fortified city, Lal Kot, founded by the Tomar Rajputs.[3] It is a UNESCO World Heritage Site in the Mehrauli area of South Delhi, India.[4][5] It is one of the most visited tourist spots in the city, mostly built between 1199 and 1220.[6][7][4]
+
+                    It can be compared to the 62-metre all-brick Minaret of Jam in Afghanistan, of 1190, which was constructed a decade or so 
+                    before the probable start of the Delhi tower. The surfaces of both are elaborately decorated with inscriptions and 
+                    geometric patterns. The Qutb Minar has a shaft that is fluted with "superb stalactite bracketing under the balconies" at the 
+                    top of each stage. In general, minarets were slow to be used in India and are often detached from the main mosque
+                     where they exist
+                    <a href="https://en.wikipedia.org/wiki/Qutb_Minar" target="_blank">Click here</a></p><br><br><br><br><br>
+        </section>
+        <section >
+                <!-- About, Reachat, Subscribe -->
+                <hr>
+            <section style="    float: right;width: 33%;text-align: left; ">
+                    <h4>About</h4>
+                    <p>Our aim is to promote natural heritage of India</p>
+            </section>
+            <section style="    float: right; width: 33%; text-align-last:center;">
+                    <h4>Reach us at</h4>
+                    <ul style="text-align: left;    list-style-type: none;  ">
+                        <li>Instagram</li>
+                        <li>Facebook</li>
+                        <li>Youtube</li>
+                    </ul>
+            </section>
+            <section style="width: 33%;float: left;text-align:right ; ">
+                    <h4>Subscrible us at</h4>
+                    <input type="email" name="Email" value="Email">
+                    <input type="submit">
+            </section>
+    
+        </section>
+    </body>
+</html>
